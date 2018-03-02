@@ -1,5 +1,5 @@
 # invoice object detection
-A model has been trained on a number of computer generated and handwritten invoice pictures in order to detect the filled values and the unfilled values in an invoice 
+A model has been trained on a number of computer generated and handwritten invoice pictures in order to detect the filled values and the unfilled values in an invoice. 
 values could be any name(alphabatic) or a number in an invoice 
 
 

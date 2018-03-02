@@ -1,0 +1,60 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+img26.jpg,694,951,empty date,466,193,516,239
+img26.jpg,694,951,empty item,139,362,469,381
+img26.jpg,694,951,empty value,464,721,514,743
+img43.png,709,1107,bill to,24,259,115,281
+img43.png,709,1107,empty date,455,178,541,200
+img43.png,709,1107,empty invoice no.,455,202,550,222
+img43.png,709,1107,empty item,117,468,384,495
+img43.png,709,1107,empty total,470,941,557,969
+img43.png,709,1107,item,115,494,384,522
+img43.png,709,1107,item,116,522,384,552
+img43.png,709,1107,item,115,552,384,578
+img43.png,709,1107,item,116,578,383,610
+img43.png,709,1107,amount,558,495,681,524
+img43.png,709,1107,amount,559,525,683,549
+img43.png,709,1107,amount,559,548,682,580
+img43.png,709,1107,amount,557,580,681,611
+img43.png,709,1107,total,558,941,681,968
+img43.png,709,1107,person,23,282,116,387
+img39.jpg,449,473,empty invoice no.,3,129,103,148
+img39.jpg,449,473,empty value,287,43,352,61
+img39.jpg,449,473,empty date,287,61,354,75
+img39.jpg,449,473,empty item,11,215,192,228
+img39.jpg,449,473,empty price,194,216,254,229
+img39.jpg,449,473,empty quantity,290,214,333,230
+img39.jpg,449,473,empty total,255,346,327,367
+img39.jpg,449,473,item,10,230,193,266
+img39.jpg,449,473,item,11,266,193,301
+img39.jpg,449,473,price,192,228,255,266
+img39.jpg,449,473,price,193,266,255,301
+img39.jpg,449,473,quantity,290,230,336,265
+img39.jpg,449,473,quantity,289,264,336,301
+img39.jpg,449,473,amount,337,230,389,265
+img39.jpg,449,473,amount,336,265,389,301
+img39.jpg,449,473,total,338,347,392,367
+img39.jpg,449,473,invoice no.,352,43,431,60
+img39.jpg,449,473,date,355,60,433,75
+img39.jpg,449,473,person,2,148,111,215
+img10.jpg,645,831,empty date,406,69,473,91
+img10.jpg,645,831,empty quantity,55,228,100,242
+img10.jpg,645,831,empty price,413,226,484,245
+img10.jpg,645,831,bill to,319,129,396,155
+img10.jpg,645,831,empty total,453,640,483,656
+img10.jpg,645,831,invoice no.,468,38,525,65
+img10.jpg,645,831,filled value,474,64,534,91
+img10.jpg,645,831,date,475,64,531,90
+img10.jpg,645,831,person,313,156,495,204
+img10.jpg,645,831,total,486,637,564,659
+img10.jpg,645,831,quantity,58,246,99,264
+img10.jpg,645,831,quantity,52,265,99,281
+img10.jpg,645,831,quantity,51,282,99,299
+img10.jpg,645,831,item,159,244,411,262
+img10.jpg,645,831,item,154,260,413,279
+img10.jpg,645,831,item,158,281,411,297
+img10.jpg,645,831,price,413,245,487,262
+img10.jpg,645,831,price,411,261,483,277
+img10.jpg,645,831,price,413,278,484,300
+img10.jpg,645,831,amount,487,246,563,265
+img10.jpg,645,831,amount,487,265,561,283
+img10.jpg,645,831,amount,488,282,560,301
